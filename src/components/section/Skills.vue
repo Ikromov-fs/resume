@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-[13px] md:text-[24px] md:font-bold">SKILLS</h1>
+    <h1 class="text-[13px] md:text-[24px] md:font-bold">TECH SKILLS</h1>
     <hr class="h-1 bg-black rounded-[2px]" />
     <p class="font-bold md:text-[19px]">Technologies & Frameworks</p>
     <div class="flex flex-wrap gap-2 mt-2">

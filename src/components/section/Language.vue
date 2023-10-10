@@ -66,26 +66,6 @@ const data = [
       },
     ],
   },
-  {
-    language: "Rus",
-    lavel: [
-      {
-        one: true,
-      },
-      {
-        one: false,
-      },
-      {
-        one: false,
-      },
-      {
-        one: false,
-      },
-      {
-        one: false,
-      },
-    ],
-  },
 ];
 </script>
 <style scoped></style>

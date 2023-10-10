@@ -16,7 +16,7 @@
         </div>
         <div class="w-[30%] flex items-center justify-end">
           <img
-            src="https://avatars.githubusercontent.com/u/101581646?v=4"
+            :src="Suhrob_aka"
             alt="user imag"
             class="rounded-[50%] mmd:max-w-[250px]"
           />
@@ -31,6 +31,7 @@ import github from "../../assets/svg/github.svg";
 import gmail from "../../assets/svg/gmail.svg";
 import tg from "../../assets/svg/tg.svg";
 import linkedin from "../../assets/svg/linedin.svg";
+import Suhrob_aka from "../../assets/sheff.jpg"
 const data = [
   {
     name: "(95)-828 98 48",
