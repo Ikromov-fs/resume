@@ -26,6 +26,6 @@ import Skills from "../components/section/Skills.vue";
 import SoffSkills from "../components/section/SoffSiklls.vue";
 import Summary from "../components/section/Summary.vue";
 import BlogPosts from "../components/section/BlogPosts.vue";
-import JobStaj from "../components/section/jobStaj.vue";
+import JobStaj from "../components/section/JobStaj.vue";
 </script>
 <style></style>
