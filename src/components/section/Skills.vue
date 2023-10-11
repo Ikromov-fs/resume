@@ -11,7 +11,7 @@
         >{{ item?.name }}</span
       >
     </div>
-    <p class="font-bold md:text-[19px] mmd:mt-2">Coursework</p>
+    <!-- <p class="font-bold md:text-[19px] mmd:mt-2">Coursework</p>
     <div class="flex flex-wrap gap-2 mt-2">
       <span
         v-for="(item, index) in dataSiklls"
@@ -19,7 +19,7 @@
         class="p-2 border sx:text-[13px] md:text-xl"
         >{{ item?.name }}</span
       >
-    </div>
+    </div> -->
   </div>
 </template>
 <script setup>
@@ -34,50 +34,38 @@ const data = [
   },
   {
     id: 3,
-    name: "NodeJs",
+    name: "React js",
   },
   {
     id: 4,
-    name: "NestJs",
+    name: "Vue js",
   },
   {
     id: 5,
-    name: "ExpressJs",
+    name: "Tailwind css",
   },
   {
     id: 6,
-    name: "Docker",
+    name: "Material ui",
   },
   {
     id: 7,
-    name: "MongoDb",
-  },
-  {
-    id: 8,
-    name: "Postgresql",
-  },
-  {
-    id: 9,
-    name: "Nats",
-  },
-  {
-    id: 10,
-    name: "Redis",
+    name: "Element plus",
   },
 ];
-const dataSiklls = [
-  {
-    name: "OOP",
-    id: 1,
-  },
-  {
-    name: "SOLID",
-    id: 2,
-  },
-  {
-    name: "Clean Code",
-    id: 3,
-  },
-];
+// const dataSiklls = [
+//   {
+//     name: "OOP",
+//     id: 1,
+//   },
+//   {
+//     name: "SOLID",
+//     id: 2,
+//   },
+//   {
+//     name: "Clean Code",
+//     id: 3,
+//   },
+// ];
 </script>
 <style scoped></style>

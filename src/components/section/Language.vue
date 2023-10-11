@@ -47,7 +47,7 @@ const data = [
     ],
   },
   {
-    language: "English",
+    language: "Rus",
     lavel: [
       {
         one: true,
@@ -57,6 +57,26 @@ const data = [
       },
       {
         one: true,
+      },
+      {
+        one: false,
+      },
+      {
+        one: false,
+      },
+    ],
+  },
+  {
+    language: "English",
+    lavel: [
+      {
+        one: true,
+      },
+      {
+        one: false,
+      },
+      {
+        one: false,
       },
       {
         one: false,

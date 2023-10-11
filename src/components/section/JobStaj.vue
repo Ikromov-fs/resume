@@ -61,33 +61,45 @@ import link from "../../assets/svg/link.svg";
 const data = [
   {
     id: 1,
-    job: "Backend Engineer",
-    place: "Fireart Studio",
-    date: "09.2022-present",
-    laktation: "Warsaw, Poland",
+    job: "Front end",
+    place: "algaritm academy",
+    date: "june.2023 - july.2023",
+    laktation: "Toshkent, Uzbekiston",
     link: "http://algaritm.uz/",
-    linkName: "fireart.studio",
-    linkNameAfter: "full-time (remote)",
+    linkName: "algaritm.uz",
+    linkNameAfter: "full-time",
     texts: [
       {
         id: 1,
         dataText:
-          "Developed and launched a web application using React and Node.js, enabling users to create personalized daily web digests with content from sources such as Reddit, Hacker News, Twitter, and more. View the live project at usedigest.com",
+          "For Algaritm Academy, a special website. On this website, we used the Vue.js 3 (Vite) library, and the backend of this website is written in Java (Spring), which provides us with great speed.",
       },
       {
         id: 2,
         dataText:
-          "Integrated user authentication through social media platforms including Google, Facebook, and Twitter using OAuth APIs, providing users with a seamless and secure login experience.",
+          "Implemented comprehensive unit and integration testing for the project using Typescript, resulting in improved code quality, reduced bug occurrence, and increased development efficiency.",
+      },
+    ],
+  },
+  {
+    id: 1,
+    job: "Front end",
+    place: "Psychological tests",
+    date: "july.2023 - oct.2023",
+    laktation: "Toshkent, Uzbekiston",
+    link: "https://psixologiktestlar.uz/",
+    linkName: "psixologiktestlar.uz",
+    linkNameAfter: "full-time",
+    texts: [
+      {
+        id: 1,
+        dataText:
+          "The psychological tests on this website have made a significant contribution to family psychology, strengthening relationships within the family, between parents and children, and in marital relationships, aimed at creating a happy family",
       },
       {
-        id: 3,
+        id: 2,
         dataText:
-          "Optimized data storage and retrieval by implementing a single table design for AWS DynamoDB in the project.",
-      },
-      {
-        id: 4,
-        dataText:
-          "Implemented comprehensive unit and integration testing for the project using Jest, resulting in improved code quality, reduced bug occurrence, and increased development efficiency.",
+          "Implemented comprehensive unit and integration testing for the project using Typescript, resulting in improved code quality, reduced bug occurrence, and increased development efficiency.",
       },
     ],
   },

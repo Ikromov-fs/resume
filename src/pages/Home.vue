@@ -8,12 +8,12 @@
     >
       <Summary />
       <Language />
-      <Projects />
-      <Skills />
       <Education />
-      <SoffSkills />
+      <Skills />
+      <!-- <BlogPosts /> -->
       <JobStaj />
-      <BlogPosts />
+      <SoffSkills />
+      <!-- <Projects /> -->
     </div>
   </div>
 </template>

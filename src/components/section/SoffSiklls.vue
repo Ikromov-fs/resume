@@ -19,14 +19,6 @@ const data = [
     name: "Teaching",
   },
   {
-    id: 2,
-    name: "Amibitious",
-  },
-  {
-    id: 3,
-    name: "Good at docs writing",
-  },
-  {
     id: 4,
     name: "Sociable",
   },
@@ -42,6 +34,10 @@ const data = [
     id: 7,
     name: "Fast learning",
   },
+  {
+    id:8,
+    name:"sportsman 😉"
+  }
 ];
 </script>
 <style scoped></style>
