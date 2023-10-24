@@ -46,7 +46,7 @@ const data = [
     {
         name: "Telegram",
         icon: tg,
-        href: "https://t.me/time_nnpm",
+        href: "https://t.me/nod1r_oke",
     },
     {
         name: "GitHub",
